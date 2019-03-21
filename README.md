@@ -1,2 +1,15 @@
-# CPSC_581-Assgn3
-CPSC 581 - Assignment 3
+# Wearable Technology Project
+CPSC 581 (Human-Interaction II) - Assignment 3
+
+# Description
+Placeholder
+
+# Deployment
+Placeholder
+
+# Contributing
+- Alexander Lam
+- Joseph Gorospe
+- Michael Verwaayen
+- Mitchell Rudy
+- Muhannad Nouri
